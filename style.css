@@ -121,6 +121,9 @@ body{
     }
 }
 @media (max-width: 768px){
+    .container{
+        width: 90%;
+    }
     .title h1{
         font-size: 25px;
         display: block;
